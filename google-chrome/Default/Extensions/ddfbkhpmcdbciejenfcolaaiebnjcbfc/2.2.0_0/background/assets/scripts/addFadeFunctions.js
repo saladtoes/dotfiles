@@ -1,0 +1,1 @@
+const fadeInSide=function(e){setTimeout((()=>{e.style.marginLeft="0",e.style.backgroundColor="rgba(74,74,74,0.95)"}),500)},fadeOutSide=function(e){e.addEventListener("transitionend",(()=>{e.remove()}),!1),e.style.marginLeft="100%",e.style.opacity="0"};

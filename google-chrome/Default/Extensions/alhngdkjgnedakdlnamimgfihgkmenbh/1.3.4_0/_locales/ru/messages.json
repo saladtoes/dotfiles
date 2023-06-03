@@ -1,0 +1,80 @@
+{
+   "clickToChoose": {
+      "message": "Нажмите \u003Cstrong>Изменить\u003C/strong> для выбора принтера."
+   },
+   "connectionFailedError": {
+      "message": "Обнаружены неполадки в сети. Проверьте подключение и попробуйте еще раз."
+   },
+   "continueWithGoogle": {
+      "message": "Войти через Google"
+   },
+   "gSuiteNotSupportedError": {
+      "message": "Вход через Google сейчас недоступен. Для печати, используйте свои имя/пароль."
+   },
+   "grantAccessError": {
+      "message": "Для печати, войдите под своим именем/паролем или Google аккаунтом"
+   },
+   "importantConnected": {
+      "message": "\u003Cstrong>Важно:\u003C/strong> Убедитесь, что вы подключены к корпоративной сети."
+   },
+   "indexTitle": {
+      "message": "Авторизация в Мобильной Печати"
+   },
+   "invalidCredentials": {
+      "message": "Неверные имя или пароль"
+   },
+   "loading": {
+      "message": "Загрузка..."
+   },
+   "loginTitle": {
+      "message": "Авторизация в Мобильной Печати"
+   },
+   "makeSure": {
+      "message": "Убедитесь, что вы выбрали принтер Мобильной Печати, они помечены значком PaperCut."
+   },
+   "openToPrint": {
+      "message": "Откройте страницу для печати."
+   },
+   "optionsTitle": {
+      "message": "Настройки Мобильной печати"
+   },
+   "or": {
+      "message": "или"
+   },
+   "password": {
+      "message": "Пароль"
+   },
+   "passwordRequired": {
+      "message": "Войдите для печати"
+   },
+   "print": {
+      "message": "Печать"
+   },
+   "readyToPrint": {
+      "message": "Вы готовы печатать!"
+   },
+   "rememberMe": {
+      "message": "Запомнить меня"
+   },
+   "rightClick": {
+      "message": "Если печать доступна, нажмите правую кнопку мыши, затем \u003Cstrong>Печать\u003C/strong>"
+   },
+   "selectFromList": {
+      "message": "Выберите принтер из списка."
+   },
+   "serverURI": {
+      "message": "URI сервера Мобильной печати"
+   },
+   "unknownGoogleAccountError": {
+      "message": "Неизвестная учетная запись. Для печати, выберите другой Google аккаунт или используйте имя/пароль."
+   },
+   "username": {
+      "message": "Имя пользователя"
+   },
+   "welcomeToPrint": {
+      "message": "Добро пожаловать в\u003Cbr/> сервер Мобильной печати PaperCut"
+   },
+   "whenPrompted": {
+      "message": "Введите свои имя и пароль в PaperCut."
+   }
+}

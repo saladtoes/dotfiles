@@ -1,0 +1,88 @@
+{
+   "checksum": "51db6604a911e23d860a8480169cab8d",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13257895029693135",
+            "date_last_used": "0",
+            "guid": "14b803f7-aab0-4882-ba1f-379c88786389",
+            "id": "13",
+            "name": "",
+            "type": "url",
+            "url": "https://mail.google.com/mail/u/0/#inbox"
+         }, {
+            "date_added": "13268353991185222",
+            "date_last_used": "0",
+            "guid": "88c04da3-2f22-49bb-94e4-a0fe727e3dd6",
+            "id": "14",
+            "name": "F,B, was 56 degrees",
+            "type": "url",
+            "url": "chrome://newtab/"
+         }, {
+            "date_added": "13258585538712790",
+            "date_last_used": "13321829494042298",
+            "guid": "f73b1b99-fddf-41c8-ba45-c02ee734f7a5",
+            "id": "15",
+            "name": "google classroom but with /h it is very important",
+            "type": "url",
+            "url": "https://classroom.google.com/h"
+         }, {
+            "date_added": "13299130533884320",
+            "date_last_used": "0",
+            "guid": "2eff61b0-3f82-4c34-a05c-f6ac5f95d020",
+            "id": "16",
+            "name": "",
+            "type": "url",
+            "url": "https://sites.google.com/site/slopeunblockedgame/"
+         }, {
+            "date_added": "13299197424106188",
+            "date_last_used": "13324603774344027",
+            "guid": "c4818495-c949-46ed-812a-b100cfb30563",
+            "id": "17",
+            "name": "daddy",
+            "type": "url",
+            "url": "https://sites.google.com/site/joelrlandry/"
+         }, {
+            "date_added": "13329783916095698",
+            "date_last_used": "0",
+            "guid": "c74505de-5af0-40cd-b8ba-0c8c6c71cb83",
+            "id": "28",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "lol",
+            "type": "url",
+            "url": "javascript:document.body.contentEditable = 'true'; document.designMode='on'; void 0"
+         } ],
+         "date_added": "13329554569091731",
+         "date_last_used": "0",
+         "date_modified": "13329783916095698",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13329554569091733",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13329554569091735",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "Cu8BCswBCIiBAhLFARI8CAISOAoGCgJibRABEDMaEgkAJWAZIv0FACEAJWAZIv0FADIYChYIAhFtyLQpIv0FABgAIQAAAAAAAAAAIACSAX0KNAoOY2hyb21lX3N5bmNfYm0SBTUxIWJtGhIJWiK1KSL9BQARWiK1KSL9BQApPpG3KSL9BQAKRQoWYW5ub3RhdGlvbl9jaHJvbWVfc3luYxIFNTEhYmQaEgkAuhokIv0FABEAuhokIv0FACmlHbUpIv0FADCA9OqgoqT/AroBAggBEgAgASoYQnRDWEo4eGl1ZmhRRVVtbVIzdXBsZz09SAMSwwEIAhK+AQocWWNTVG9udkVTUHdxQ3M0TDJjclZodjY4TDk4PRJmWjpBRHF0QVp6ZysybERjeW0xMWMyN01PWFI5ZmtQcjRDMldsd1FBS2dyWVd3cWdKNHVkUVdRUGx1eFk1TGIydERtR25oVml1alRYekl1eXJKZG1waW9QanIxcEpZdmxITHNCQT09GAAgACgAMMb/mfmnkv8COABAAEocb1BWa2h3QlJiVjY1S0NXUjIrSU9OSFdvT3U4PVoAZQAAAAASwwEIAxK+AQocbmpnRHU4OGVDcnZYcDg2cEQ3ZkhHY3FGcDg4PRJmWjpBRHF0QVp5TkFBdXl4ZE1GR0NKempuMno2ZHd2Q0lrZ2JGOHJNUFFiZzJsbmR5RFpNcS9MdlFya244YXNCOXhML0twRDFDNEpYMzUyYmovUmdBV2dWOG8yREQ4enpOS3RpQT09GAAgACgAMMb/mfmnkv8COABAAEoceXpOQjAxY241NEE3Y1JVMHVUKy9QZ21UdFVvPVoAZQAAAAASqwEIARKmAQoceXhKLzZmdmtlY3I3a3A1RVF6QjR0V0xwZGJFPRJOWjpBRHF0QVp3eFlHOFBCcVd1dEU1eS9MT2lHZHVXVFJOc2ZVSEdLbmJpeEVjWElxZUNLeGZYaTNRREtwOGpKR0REZjZtT0lONkhXYzY1GAAgACgAMMb/mfmnkv8COABAAEocYVJDV0xnaEY5YjVJbnFLSUR2dUovanZRa0ZjPVoAZQAAAAASrQIIDhKoAgocNXVKazEvVWgzbVlFL1lXMUFOc3o0NXBhaS9RPRKmAVo6QURxdEFaeFdGY0JvR0xoTXVwallKeEIvemoxbXZ6Z0E5R1g1eEV5VFEzRHovaktwT1NyZkNMUTVrMUNLREhURDFBTTlndGtWb2ZDWU5NcWliaTlPZ3RTQkVtWXpGQmZFT1lRQ1FxOGVpeVk3a0pYb0tmc0ovODVhWTdMdjl4UGFBVlhxOEh6TkhqQVoreThDb3htT1hSQTM1VDFTUmZsYXBRPT0YACAAKAAwva66m6PE9wI4kbTBtqEvQJG0wbahL0ocSGxDL1VNK0ZKMlNQdFhINXBTc3R0RVlaTWFvPVofIh3sRlBlVmdTbXpraVJmQTVrZVp1Yk9KcWhXZWtNPWUAAAAAEq0CCA0SqAIKHEE1SVNqZUl4YzJMUTUveC82WGhjV1lLd2F3cz0SpgFaOkFEcXRBWnhXRmNCb0dMaE11cGpZSnhCL3pqMW00S21jUE03NG5ubjNHdGh6R1lFL0dtbVphZ2wvUkxqdkpoNThWbERmNnp0QTFSM1ZTNVhIS1pJdUR5MTlLMG42K2JvTXFlM1pzSFdsaVBrbDJUQVdBbnh0cE8xSlh0RDFHTnQ1VXhockZBV1NjQ0ZMMFNITVRBWUxveVhiUXJ0Nk5NZ2FkZz09GAAgAigCMNC3k5aBo/8COL+Hpbv6LkD+l+fGhzFKHFo2Qi9sU0FRMjFlOEtTMzJOTWRZOWdxc3FxTT1aHyIdsStaNE1USVBBMjZTQVFLUGdXQTFSTUlxYlhuTT1li6CM0RKtAggPEqgCChx5cjV3RHoxcE9zdDNYMmFpeHBUOWxteXhpa0E9EqYBWjpBRHF0QVp4V0ZjQm9HTGhNdXBqWUp4Qi96ajFtd0JXRGRCNml1VGRqeGZGV2NwemJFRGNrQnVGUWtVQm40QlJIbm05V0RWb1QxdXlDQWNZRXFreXpBMGlYNFJxeU5POFFKYU8wRFN5cnVOWTJmSlhjRGR3SmFXdjEzMC95NjNneDNQbmxKcHpqRHhFNnFxbktaVWsxQWdYcVoyR2Z5dEZxMlE9PRgAIAIoAjDQt5OWgaP/AjiZscaE/S5A/pfnxocxShxxeGNNMjhCTTErUEw4dGNKVUIvS3N2TGZ1aXM9Wh8iHfZxOTA5cks1VTBTdzFPcFlGWk5GYXF6ckVoVjA9ZQtRbGcS7AEIEBLnAQocQ21odDJTWW9UcTJjM0NGck1TT2ZKSS8zQk5jPRJmWjpBRHF0QVp6TnBFN1RRZGpNdFdWOGNCbUdVd1BhamN6SmtYZjRpd1F3akFnUmozMDNUT2ZyRHBOSHZudU5NNStqbHFxbDJrMndKd1RSUy8xOFNjNnNpRmdUSEdhSDdkTXlUdz09GAAgAigCMNC3k5aBo/8COP2/9ImUMED+l+fGhzFKHGZxSFBnRk5vOHBTUmxjZ05pMGxwUXl1UDY5ND1aHyId+Tk1WVBOVUNmd1ZDdlJ2N1l1V2J6bUhpVHVUcz1lJAdNVBLsAQgcEucBChxGNHE4ay8yUXBwVERDdTM5dGx2OFZDTE90eWM9EmZaOkFEcXRBWnpOcEU3VFFkak10V1Y4Y0JtR1V3UGF4UENwVnVOcEIwWHd6RVhBTUx6YmhId0gxanp5eWNsOVRlbEM0Z0MyTS95UTNlckpKMzRoUmhEZFlNd1VyZjBOOTRyY0tnPT0YACAAKAAwwvHBtP6Y/wI4wLzKooYxQMC8yqKGMUoccFVubWpsempzTHR1RnBkVnJMcWVqa2RIRGNVPVofIh3/dDNmR0ZPT2RFNWZ0Uk1KMjFiQ3AxeE1pUjY0PWUAAAAAEuwBCBES5wEKHHJ6b05WaWtUSnQwcDFabnBhOEFkb2FsMTFBVT0SZlo6QURxdEFaek5wRTdUUWRqTXRXVjhjQm1HVXdQYWgwbEZvWkpkaW5YVS9udE1MQjZZZnc1eGx2MnJsUUM1Q2wxUzhzRTIzcUdOc1phczNreWpWRGNSWWlHYTFaRUtiMjB3akE9PRgAIAIoAjDQt5OWgaP/Ajj2k+eplDBA/pfnxocxShxOdDMxRFdZUmorU2I4UStVdUFSMWNOWkxtcnM9Wh8iHf1STmFGSkFOZWMvbmw2ZWphL2swK1dyWUtveEU9ZVVKuGgwATgA",
+   "version": 1
+}

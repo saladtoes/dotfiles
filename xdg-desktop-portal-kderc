@@ -1,0 +1,8 @@
+[FileDialogSize]
+2 screens: Height=593
+2 screens: Width=982
+
+[KFileDialog Settings]
+Recent Files[$e]=2023-06-02_21-21.png,file:$HOME/Pictures/wallpaperbspwm/2023-06-02_21-21.png
+Recent URLs[$e]=file:$HOME/Pictures/wallpaperbspwm/
+detailViewIconSize=16

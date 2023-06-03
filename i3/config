@@ -1,0 +1,25 @@
+include $HOME/.config/i3/theme.conf
+include $HOME/.config/i3/rules.conf
+include $HOME/.config/i3/workspaces.conf
+include $HOME/.config/i3/modes.conf
+exec_always --no-startup-id ~/myrepo/i3/autostart.sh
+exec /home/drmdub/Downloads/gitthings/i3-restore
+set $fm DisplayPort-1
+set $sm HDMI-A-1
+set $mod Mod4
+floating_modifier $mod
+font pango:monospace 0
+bindsym $mod+Shift+e exec "i3-nagbar -t warning -m 'You pressed the exit shortcut. Do you really want to exit i3? This will end your X session.' -b 'Yes, exit i3' 'i3-msg exit'"
+bindsym $mod+Shift+s layout stacking
+bindsym $mod+Shift+t layout tabbed
+bindsym $mod+e layout toggle split
+bindsym $mod+v [class="vol"] scratchpad show; move position center
+bindsym $mod+n [class="ttrm"] scratchpad show; move position center
+bindsym $mod+m [class="mus"] scratchpad show; move position center
+bindsym $mod+b [class="news"] scratchpad show; move position center
+bindsym $mod+c [class="fm"] scratchpad show; move position center
+exec_always --no-startup-id pgrep -f '^alacritty --class ttrm,ttrm' || alacritty --class ttrm,ttrm
+exec_always --no-startup-id pgrep -f '^alacritty --class vol,vol' || alacritty --class vol,vol -e pulsemixer
+exec_always --no-startup-id pgrep -f '^alacritty --class news,news' || alacritty --class news,news -e newsboat
+exec_always --no-startup-id pgrep -f '^alacritty --class mus,mus' || alacritty --class mus,mus -e ncmpcpp
+exec_always --no-startup-id pgrep -f '^alacritty --class fm,fm' || alacritty --class fm,fm -e ranger

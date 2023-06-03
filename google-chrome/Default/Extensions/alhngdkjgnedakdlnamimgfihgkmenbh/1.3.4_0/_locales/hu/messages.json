@@ -1,0 +1,80 @@
+{
+   "clickToChoose": {
+      "message": "Kattintson a \u003Cstrong>Módosítás\u003C/strong>-ra a nyomtató kijelöléséhez!"
+   },
+   "connectionFailedError": {
+      "message": "Hálózati kapcsolati probléma észlelhető. Ellenőrizze a hálózati kapcsolatot, majd próbálja meg újra!"
+   },
+   "continueWithGoogle": {
+      "message": "Bejelentkezés Google-lel"
+   },
+   "gSuiteNotSupportedError": {
+      "message": "A Google bejelentkezés jelenleg nem érhető el. A nyomtatáshoz használja a nyomtatási felhasználónevét és jelszavát!"
+   },
+   "grantAccessError": {
+      "message": "Nyomtatáshoz hitelesítés vagy az Ön nyomtatási felhasználói nevével és jelszavával, vagy az Ön Google fiókjával."
+   },
+   "importantConnected": {
+      "message": "\u003Cstrong>FONTOS:\u003C/strong> Győződjön meg róla, hogy csatlakozott a vállalkozás hálózatához!"
+   },
+   "indexTitle": {
+      "message": "Mobility Print hitelesítés"
+   },
+   "invalidCredentials": {
+      "message": "Érvénytelen felhasználói név vagy jelszó"
+   },
+   "loading": {
+      "message": "Betöltés…"
+   },
+   "loginTitle": {
+      "message": "Mobility Print hitelesítés"
+   },
+   "makeSure": {
+      "message": "Ellenőrizze, hogy a kiválasztott Mobility Print nyomtató PaperCut ikonnal van-e megjelölve!"
+   },
+   "openToPrint": {
+      "message": "Nyissa meg az oldalt a nyomtatáshoz!"
+   },
+   "optionsTitle": {
+      "message": "Mobility Print beállításai"
+   },
+   "or": {
+      "message": "vagy"
+   },
+   "password": {
+      "message": "Jelszó"
+   },
+   "passwordRequired": {
+      "message": "Bejelentkezés nyomtatáshoz"
+   },
+   "print": {
+      "message": "Nyomtatás"
+   },
+   "readyToPrint": {
+      "message": "Most már tud nyomtatni."
+   },
+   "rememberMe": {
+      "message": "Jegyezzen rá"
+   },
+   "rightClick": {
+      "message": "Ha a nyomtatás lehetséges; jobb klikk, majd válassza a\u003Cstrong>Nyomtatás\u003C/strong>-t!"
+   },
+   "selectFromList": {
+      "message": "Jelöljön ki egy nyomtatót a listából!"
+   },
+   "serverURI": {
+      "message": "Mobility Print kiszolgáló URL-je"
+   },
+   "unknownGoogleAccountError": {
+      "message": "Ismeretlen felhasználói fiók. Nyomtatáshoz válasszon másik Google fiókot, vagy használja a nyomtatási felhasználói nevét és jelszavát!"
+   },
+   "username": {
+      "message": "Felhasználói név"
+   },
+   "welcomeToPrint": {
+      "message": "Üdvözli a\u003Cbr/> PaperCut Mobility Print"
+   },
+   "whenPrompted": {
+      "message": "Amikor a rendszer kéri, adja meg a PaperCut felhasználói nevét és jelszavát."
+   }
+}

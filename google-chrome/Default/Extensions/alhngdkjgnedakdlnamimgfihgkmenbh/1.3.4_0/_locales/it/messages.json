@@ -1,0 +1,74 @@
+{
+   "clickToChoose": {
+      "message": "clicca su \u003Cstrong> Modifica \u003C/strong> per selezionare una stampante."
+   },
+   "continueWithGoogle": {
+      "message": "Entra con google"
+   },
+   "gSuiteNotSupportedError": {
+      "message": "Il login con google non è disponinile al momento. Pers tampare utlizza i tuoi username e passaword per stamapre"
+   },
+   "grantAccessError": {
+      "message": "per stampare autenticati con il tuo username e la tua password sul tuo account google"
+   },
+   "importantConnected": {
+      "message": "\u003Cstrong>Important:\u003C/strong> Assicurati di essere connesso alla rete dell'organizzazione."
+   },
+   "indexTitle": {
+      "message": "Autenticazione Mobility Print"
+   },
+   "invalidCredentials": {
+      "message": "Usermane o password errati"
+   },
+   "loading": {
+      "message": "caricamento"
+   },
+   "loginTitle": {
+      "message": "Autenticazione su mobility print"
+   },
+   "makeSure": {
+      "message": "assicurati di selezionare una stampante mobility print identificata dall'icona di papercut"
+   },
+   "openToPrint": {
+      "message": "Apri la pagina da stampare"
+   },
+   "optionsTitle": {
+      "message": "Opzioni mobility print"
+   },
+   "password": {
+      "message": "password"
+   },
+   "passwordRequired": {
+      "message": "Password richiesta per stampare"
+   },
+   "print": {
+      "message": "Stampa"
+   },
+   "readyToPrint": {
+      "message": "Sei pronto per stampare"
+   },
+   "rememberMe": {
+      "message": "Ricordamelo per 7 giorni"
+   },
+   "rightClick": {
+      "message": "Se la stampa è disponibile, clicca il tasto destro del mouse; poi seleziona \u003Cstrong>Stampa\u003C/strong>"
+   },
+   "selectFromList": {
+      "message": "Seleziona una stampante dall'elenco"
+   },
+   "serverURI": {
+      "message": "Mobility Print server URI"
+   },
+   "unknownGoogleAccountError": {
+      "message": "Account utente sconosciuto. Per stampare seleziona un account google differente o utilizza il tuoi usaername e password di stampa"
+   },
+   "username": {
+      "message": "Nome utente"
+   },
+   "welcomeToPrint": {
+      "message": "Benvenuto a\u003Cbr/> PaperCut Mobility Print"
+   },
+   "whenPrompted": {
+      "message": "Quando richiesto immettere il nome utente e la password di PaperCut."
+   }
+}

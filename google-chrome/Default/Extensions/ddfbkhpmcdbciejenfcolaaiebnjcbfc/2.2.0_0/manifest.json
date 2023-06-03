@@ -1,0 +1,33 @@
+{
+   "background": {
+      "scripts": [ "background/background.bundle.js" ]
+   },
+   "browser_action": {
+      "default_icon": "popup/icon.png",
+      "default_popup": "popup/index.html"
+   },
+   "content_scripts": [ {
+      "all_frames": true,
+      "js": [ "background/content.bundle.js" ],
+      "matches": [ "*://*/*" ],
+      "run_at": "document_start"
+   } ],
+   "content_security_policy": "script-src 'self' 'unsafe-eval'; object-src 'self'",
+   "description": "Connect for Chrome - Education provides visibility into student internet access in the classroom.",
+   "host_permissions": [ "*://*.linewize.net" ],
+   "icons": {
+      "192": "/background/assets/imgs/icon-192.png",
+      "512": "/background/assets/imgs/icon-512.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAhFQmiR4hV3OnuBzARGbmvyJ+Xfy3XItqhRJRMQPU7vzgs7wfLWDT3m3U4mH6Jp2g+jAawX2bsATUiGc3q06AiOtttAioO1JO6dNNRa9nfMH6sAeydfUeUpBdbygdW1UaqhdB5BD/42bS2pVvU/gbS4oUP6ZywZwE+WDAAY5GemZACHIlt3pw2cbms1YZAiGiK4cY8q2hY8SXfGb0+QGpsd2VEwEaSwgMN7Pp7gSWEdOdleP1QwBRT7jE1gnmlmTB8EZJ3hXtTZKOjmXSGn5OgBlQ1fjQWBhS3skd9k7DDTgF5BqfsuQGO9u7SZNmc08Q0zQFwnZPgLYvppeiWPXcXQIDAQAB",
+   "manifest_version": 2,
+   "name": "Connect for Chrome - Education",
+   "oauth2": {
+      "client_id": "474789183549-2jbl8gn6gik3pho11dlcdcllb22ab4vm.apps.googleusercontent.com",
+      "scopes": [ "https://www.googleapis.com/auth/userinfo.email" ]
+   },
+   "permissions": [ "\u003Call_urls>", "tabs", "identity", "storage", "identity.email", "webRequest", "webRequestBlocking", "unlimitedStorage", "idle", "cookies" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "2.2.0",
+   "web_accessible_resources": [ "/background/assets/imgs/Close.svg", "/background/assets/pages/default-blocked.html", "/chat/assets/imgs/bubble.svg", "/chat/assets/imgs/pendo.png", "/chat/assets/imgs/beta.svg", "/chat/assets/imgs/closePendo.svg" ]
+}

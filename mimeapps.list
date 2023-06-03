@@ -1,0 +1,16 @@
+[Added Associations]
+text/x-lua=code.desktop;org.kde.kate.desktop;
+application/x-zerosize=code.desktop;
+text/plain=xed.desktop;org.kde.kate.desktop;code.desktop;
+application/x-shellscript=code.desktop;kitty-open.desktop;org.kde.kate.desktop;
+text/x-chdr=org.kde.kate.desktop;
+text/x-matlab=lvim.desktop;nvim.desktop;org.kde.kate.desktop;code.desktop;
+text/html=firefox.desktop;code.desktop;
+image/svg+xml=gimp.desktop;code.desktop;xed.desktop;
+application/json=code.desktop;
+
+[Default Applications]
+application/x-zerosize=code.desktop
+x-scheme-handler/http=google-chrome.desktop
+x-scheme-handler/https=google-chrome.desktop
+text/html=google-chrome.desktop

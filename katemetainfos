@@ -1,0 +1,299 @@
+[file:///etc/fstab]
+Bookmarks=
+Checksum=2dab2d568faf3630f553e12d2944d002cfb023d8
+Encoding=UTF-8
+Highlighting=fstab
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=fstab
+Mode Set By User=false
+Time=2023,5,16,2,38,26.778
+URL=file:///etc/fstab
+
+[file:///etc/pacman.d/mirrorlist]
+Bookmarks=
+Checksum=1c2f5735b0319b35cc5cde265cd0db1cc01e4465
+Encoding=UTF-8
+Highlighting=None
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Normal
+Mode Set By User=false
+Time=2023,5,31,23,3,21.454
+URL=file:///etc/pacman.d/mirrorlist
+
+[file:///etc/xdg/awesome/rc.lua]
+Bookmarks=
+Checksum=18815c81f2cb4802cf2f98371bdfce0f938c0162
+Encoding=UTF-8
+Highlighting=Lua
+Highlighting Set By User=false
+Indentation Mode=lua
+Mode=Lua
+Mode Set By User=false
+Time=2023,5,22,6,9,15.965
+URL=file:///etc/xdg/awesome/rc.lua
+
+[file:///home/joel/.bashrc]
+Bookmarks=
+Checksum=7d01351ab6e66495be8ed82b8c50f6c18ce74e79
+Encoding=UTF-8
+Highlighting=Bash
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Bash
+Mode Set By User=false
+Time=2023,6,1,6,27,59.855
+URL=file:///home/joel/.bashrc
+
+[file:///home/joel/.config/BetterDiscord/plugins/0BDFDB.raw.css]
+Bookmarks=
+Checksum=669b57713c736057d0465f4f6258d01a964161e8
+Encoding=UTF-8
+Highlighting=CSS
+Highlighting Set By User=false
+Indentation Mode=cstyle
+Mode=CSS
+Mode Set By User=false
+Time=2023,5,16,1,43,8.479
+URL=file:///home/joel/.config/BetterDiscord/plugins/0BDFDB.raw.css
+
+[file:///home/joel/.config/awesome/rc.lua]
+Bookmarks=
+Checksum=2a6833aeeb541166d95593a91c67d52d6e90aa40
+Encoding=UTF-8
+Highlighting=Lua
+Highlighting Set By User=false
+Indentation Mode=lua
+Mode=Lua
+Mode Set By User=false
+Time=2023,5,22,6,43,17.805
+URL=file:///home/joel/.config/awesome/rc.lua
+
+[file:///home/joel/.config/fish/config.fish]
+Bookmarks=
+Checksum=ca926c2ef6c2030463e1f8d93df40ad749f167fb
+Encoding=UTF-8
+Highlighting=Fish
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Fish
+Mode Set By User=false
+Time=2023,6,1,6,25,15.328
+URL=file:///home/joel/.config/fish/config.fish
+
+[file:///home/joel/.config/kitty/kitty.conf]
+Bookmarks=
+Checksum=7b737283fec79538c3d686055c008523add44768
+Encoding=UTF-8
+Highlighting=None
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Normal
+Mode Set By User=false
+Time=2023,5,16,4,41,38.416
+URL=file:///home/joel/.config/kitty/kitty.conf
+
+[file:///home/joel/.config/neofetch/config.conf]
+Bookmarks=
+Checksum=968827e95b5aedd57abab6a4d59083b3567f7f7a
+Encoding=UTF-8
+Highlighting=None
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Normal
+Mode Set By User=false
+Time=2023,5,16,1,37,44.412
+URL=file:///home/joel/.config/neofetch/config.conf
+
+[file:///home/joel/.config/starship.toml]
+Bookmarks=
+Checksum=4e3a136abe6b0e805a30176b6a3f0ac905fb8ba3
+Encoding=UTF-8
+Highlighting=TOML
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=TOML
+Mode Set By User=false
+Time=2023,5,16,1,39,4.065
+URL=file:///home/joel/.config/starship.toml
+
+[file:///home/joel/.gitconfig]
+Bookmarks=
+Checksum=f1caf55f8b30e6c3ca863b3d8af73df862ae9d4f
+Encoding=UTF-8
+Highlighting=INI Files
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=INI Files
+Mode Set By User=false
+Time=2023,5,20,1,24,24.08
+URL=file:///home/joel/.gitconfig
+
+[file:///home/joel/.local/share/Paradox Interactive/Hearts of Iron IV/settings.txt]
+Bookmarks=
+Checksum=e0e70e47c3aaab80a98ec415040e6859c929f9f0
+Encoding=UTF-8
+Highlighting=None
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Normal
+Mode Set By User=false
+Time=2023,5,20,2,56,1.733
+URL=file:///home/joel/.local/share/Paradox Interactive/Hearts of Iron IV/settings.txt
+
+[file:///home/joel/Documents/brach.txt]
+Bookmarks=
+Checksum=25736ac78308593208c6670f68a6b8bf8082e987
+Encoding=UTF-8
+Highlighting=None
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Normal
+Mode Set By User=false
+Time=2023,5,21,4,15,5.971
+URL=file:///home/joel/Documents/brach.txt
+
+[file:///home/joel/Documents/school-code/Dti-web/home/index.html]
+Bookmarks=
+Checksum=bc3613b503ed9c060b18ced2581c9cbe77f3e9e2
+Encoding=UTF-8
+Highlighting=HTML
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=HTML
+Mode Set By User=false
+Time=2023,5,26,11,39,19.492
+URL=file:///home/joel/Documents/school-code/Dti-web/home/index.html
+
+[file:///home/joel/Documents/school-code/school-work/.git/COMMIT_EDITMSG]
+Bookmarks=
+Checksum=5ec586d228b5ff1e8c845c4ed8c2d01f3a159b24
+Encoding=UTF-8
+Highlighting=None
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Normal
+Mode Set By User=false
+Time=2023,5,21,4,18,12.408
+URL=file:///home/joel/Documents/school-code/school-work/.git/COMMIT_EDITMSG
+
+[file:///home/joel/Documents/school-code/school-work/.git/config]
+Bookmarks=
+Checksum=7281aed7a8b500ca1a0d08e24e8bc0ad9d4a022f
+Encoding=UTF-8
+Highlighting=None
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Normal
+Mode Set By User=false
+Time=2023,5,21,7,32,54.077
+URL=file:///home/joel/Documents/school-code/school-work/.git/config
+
+[file:///home/joel/Documents/school-code/school-work/.git/hooks/fsmonitor-watchman.sample]
+Bookmarks=
+Checksum=23e856f5deeb7f564afc22f2beed54449c2d3afb
+Encoding=UTF-8
+Highlighting=Perl
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Perl
+Mode Set By User=false
+Time=2023,5,21,4,18,34.353
+URL=file:///home/joel/Documents/school-code/school-work/.git/hooks/fsmonitor-watchman.sample
+
+[file:///home/joel/Downloads/CSS-Sprite-Package/css-sprites.css]
+Bookmarks=
+Checksum=9a3b34d257c3e451ec4a8f0474c113da84251ba5
+Encoding=UTF-8
+Highlighting=CSS
+Highlighting Set By User=false
+Indentation Mode=cstyle
+Mode=CSS
+Mode Set By User=false
+Time=2023,5,20,11,11,18.57
+URL=file:///home/joel/Downloads/CSS-Sprite-Package/css-sprites.css
+
+[file:///home/joel/Downloads/Hack/readme.md]
+Bookmarks=
+Checksum=9f2e700fd2eaed457787ccf4eca24ff282218095
+Encoding=UTF-8
+Highlighting=Markdown
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Markdown
+Mode Set By User=false
+Time=2023,5,16,1,18,48.412
+URL=file:///home/joel/Downloads/Hack/readme.md
+
+[file:///home/joel/Downloads/Websites/full_width.html]
+Bookmarks=
+Checksum=71a78418273165443de716a33837e9d589c6e240
+Encoding=UTF-8
+Highlighting=HTML
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=HTML
+Mode Set By User=false
+Time=2023,5,26,11,39,19.492
+URL=file:///home/joel/Downloads/Websites/full_width.html
+
+[file:///home/joel/Downloads/freetype-2.10.0/Makefile]
+Bookmarks=
+Checksum=3f6a8bec0a65c1127dc5620428b4bddb752ee18f
+Encoding=UTF-8
+Highlighting=Makefile
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Makefile
+Mode Set By User=false
+Time=2023,5,20,12,38,25.983
+URL=file:///home/joel/Downloads/freetype-2.10.0/Makefile
+
+[file:///home/joel/Downloads/freetype-2.10.0/docs/INSTALL.UNIX]
+Bookmarks=
+Checksum=602744d31e09cfa0da63ca53582a45f10b3bfdb0
+Encoding=UTF-8
+Highlighting=None
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Normal
+Mode Set By User=false
+Time=2023,5,20,12,48,57.923
+URL=file:///home/joel/Downloads/freetype-2.10.0/docs/INSTALL.UNIX
+
+[file:///home/joel/dotfiles/.config/picom/picom.conf]
+Bookmarks=
+Checksum=f7aa5edc05ee96bf5446818e7878fbcd15199ceb
+Encoding=UTF-8
+Highlighting=None
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Normal
+Mode Set By User=false
+Time=2023,5,30,21,2,11.764
+URL=file:///home/joel/dotfiles/.config/picom/picom.conf
+
+[file:///home/joel/dwm/src/dwm/config.h]
+Bookmarks=
+Checksum=0213e11f669208a7f99b0aed0011cf5e157b2737
+Encoding=UTF-8
+Highlighting=C++
+Highlighting Set By User=false
+Indentation Mode=cstyle
+Mode=C++
+Mode Set By User=false
+Time=2023,5,31,3,53,31.696
+URL=file:///home/joel/dwm/src/dwm/config.h
+
+[file:///home/joel/rpcs3-git/PKGBUILD]
+Bookmarks=
+Checksum=fd6b155314b4aa4dbf498174b5b78a9ab62462b9
+Encoding=UTF-8
+Highlighting=Bash
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Bash
+Mode Set By User=false
+Time=2023,5,20,21,37,9.605
+URL=file:///home/joel/rpcs3-git/PKGBUILD

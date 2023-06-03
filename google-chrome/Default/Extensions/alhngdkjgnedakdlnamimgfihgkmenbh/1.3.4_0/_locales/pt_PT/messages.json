@@ -1,0 +1,80 @@
+{
+   "clickToChoose": {
+      "message": "Clique \u003Cstrong>Modificar\u003C/strong> para escolher a impressora."
+   },
+   "connectionFailedError": {
+      "message": "Detetamos um problema de rede. Por favor verifique que se encontra ligado à rede e tente novamente."
+   },
+   "continueWithGoogle": {
+      "message": "Iniciar Sessão com Google"
+   },
+   "gSuiteNotSupportedError": {
+      "message": "Autenticação Google não se encontra disponível atualmente. Para imprimir, inicie sessão com utilizador e palavra-passe."
+   },
+   "grantAccessError": {
+      "message": "Para imprimir, autentique a sua impressão com utilizador e palavra-passe ou com a sua conta Google"
+   },
+   "importantConnected": {
+      "message": "\u003Cstrong>Importante:\u003C/strong> Certifique-se que está ligado à rede da sua organização."
+   },
+   "indexTitle": {
+      "message": "Autenticação Impressão Móvel"
+   },
+   "invalidCredentials": {
+      "message": "Nome utilizador e palavra-passe inválidos"
+   },
+   "loading": {
+      "message": "A carregar..."
+   },
+   "loginTitle": {
+      "message": "Autenticação Impressão Móvel"
+   },
+   "makeSure": {
+      "message": "Certifique-se que seleciona uma impressora do Mobility Print identificado com o ícone PaperCut"
+   },
+   "openToPrint": {
+      "message": "Abra a página para imprimir."
+   },
+   "optionsTitle": {
+      "message": "Opções Impressão Móvel"
+   },
+   "or": {
+      "message": "ou"
+   },
+   "password": {
+      "message": "Palavra-passe"
+   },
+   "passwordRequired": {
+      "message": "Autentique-se para imprimir"
+   },
+   "print": {
+      "message": "Imprimir"
+   },
+   "readyToPrint": {
+      "message": "Está pronto para imprimir!"
+   },
+   "rememberMe": {
+      "message": "Recordar-me"
+   },
+   "rightClick": {
+      "message": "Se a impressão estiver disponível, clique direito; em seguida selecione \u003Cstrong>Imprimir\u003C/strong>"
+   },
+   "selectFromList": {
+      "message": "Selecione a impressora da lista."
+   },
+   "serverURI": {
+      "message": "URL do servidor Impressão Móvel"
+   },
+   "unknownGoogleAccountError": {
+      "message": "Conta de utilizador desconhecida. Para imprimir, selecione uma conta Google diferente ou utilize as suas credenciais de impressão, utilizador e palavra-passe."
+   },
+   "username": {
+      "message": "Nome de utilizador"
+   },
+   "welcomeToPrint": {
+      "message": "Bem-vindo à\u003Cbr/> Impressão Móvel da PaperCut"
+   },
+   "whenPrompted": {
+      "message": "Quando solicitado introduza o nome de utilizador e palavra-passe do PaperCut."
+   }
+}

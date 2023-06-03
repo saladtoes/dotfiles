@@ -1,0 +1,129 @@
+/*!
+ * @license Copyright 2021, Ably
+ * 
+ * Ably JavaScript Library v1.2.11
+ * https://github.com/ably/ably-js
+ * 
+ * Ably Realtime Messaging
+ * https://www.ably.com
+ * 
+ * Released under the Apache Licence v2.0
+ */
+
+/*! ../utils */
+
+/*! ../utils.js */
+
+/*! ./adapter_factory.js */
+
+/*! ./browser/static/ably-node */
+
+/*! ./chrome/chrome_shim */
+
+/*! ./common_shim */
+
+/*! ./edge/edge_shim */
+
+/*! ./filtericeservers */
+
+/*! ./firefox/firefox_shim */
+
+/*! ./getdisplaymedia */
+
+/*! ./getusermedia */
+
+/*! ./safari/safari_shim */
+
+/*! ./utils */
+
+/*! ably/promises */
+
+/*! https://mths.be/punycode v1.3.2 by @mathias */
+
+/*! rtcpeerconnection-shim */
+
+/*! sdp */
+
+/*! webrtc-adapter */
+
+/*!**********************!*\
+  !*** ./src/index.js ***!
+  \**********************/
+
+/*!*********************************!*\
+  !*** ./node_modules/sdp/sdp.js ***!
+  \*********************************/
+
+/*!***************************************!*\
+  !*** ./node_modules/ably/promises.js ***!
+  \***************************************/
+
+/*!*****************************************************!*\
+  !*** ./node_modules/webrtc-adapter/src/js/utils.js ***!
+  \*****************************************************/
+
+/*!***********************************************************!*\
+  !*** ./node_modules/ably/browser/static/ably-commonjs.js ***!
+  \***********************************************************/
+
+/*!***********************************************************!*\
+  !*** ./node_modules/webrtc-adapter/src/js/common_shim.js ***!
+  \***********************************************************/
+
+/*!************************************************************!*\
+  !*** ./node_modules/webrtc-adapter/src/js/adapter_core.js ***!
+  \************************************************************/
+
+/*!**************************************************************!*\
+  !*** ./node_modules/webrtc-adapter/src/js/edge/edge_shim.js ***!
+  \**************************************************************/
+
+/*!***************************************************************!*\
+  !*** ./node_modules/webrtc-adapter/src/js/adapter_factory.js ***!
+  \***************************************************************/
+
+/*!*****************************************************************!*\
+  !*** ./node_modules/webrtc-adapter/src/js/edge/getusermedia.js ***!
+  \*****************************************************************/
+
+/*!******************************************************************!*\
+  !*** ./node_modules/rtcpeerconnection-shim/rtcpeerconnection.js ***!
+  \******************************************************************/
+
+/*!******************************************************************!*\
+  !*** ./node_modules/webrtc-adapter/src/js/chrome/chrome_shim.js ***!
+  \******************************************************************/
+
+/*!******************************************************************!*\
+  !*** ./node_modules/webrtc-adapter/src/js/safari/safari_shim.js ***!
+  \******************************************************************/
+
+/*!*******************************************************************!*\
+  !*** ./node_modules/webrtc-adapter/src/js/chrome/getusermedia.js ***!
+  \*******************************************************************/
+
+/*!********************************************************************!*\
+  !*** ./node_modules/webrtc-adapter/src/js/edge/getdisplaymedia.js ***!
+  \********************************************************************/
+
+/*!********************************************************************!*\
+  !*** ./node_modules/webrtc-adapter/src/js/firefox/firefox_shim.js ***!
+  \********************************************************************/
+
+/*!********************************************************************!*\
+  !*** ./node_modules/webrtc-adapter/src/js/firefox/getusermedia.js ***!
+  \********************************************************************/
+
+/*!*********************************************************************!*\
+  !*** ./node_modules/webrtc-adapter/src/js/edge/filtericeservers.js ***!
+  \*********************************************************************/
+
+/*!**********************************************************************!*\
+  !*** ./node_modules/webrtc-adapter/src/js/chrome/getdisplaymedia.js ***!
+  \**********************************************************************/
+
+/*!***********************************************************************!*\
+  !*** ./node_modules/webrtc-adapter/src/js/firefox/getdisplaymedia.js ***!
+  \***********************************************************************/
+
+//! Leave this as first callback to ensure an unhandled error in another callback doesn't result in this callback not being called, as it's critical we turn off this fallback flag after configuration is set

@@ -1,0 +1,62 @@
+{
+   "clickToChoose": {
+      "message": "Bir yazıcı seçmek için \u003Cstrong> Değiştir \u003C/strong> 'i tıklayın."
+   },
+   "importantConnected": {
+      "message": "\u003Cstrong> Önemli: \u003C/strong> Kuruluşunuzun ağına bağlı olduğunuzdan emin olun."
+   },
+   "indexTitle": {
+      "message": "Mobil Yazdırma Kimlik Doğrulaması"
+   },
+   "invalidCredentials": {
+      "message": "Geçersiz kullanıcı adı veya şifre"
+   },
+   "loading": {
+      "message": "Yükleniyor..."
+   },
+   "loginTitle": {
+      "message": "Mobil Yazdırma Kimlik Doğrulaması"
+   },
+   "makeSure": {
+      "message": "PaperCut simgesi ile tanımlanan şekilde bir Mobil Yazdırma yazıcısı seçtiğinizden emin olun"
+   },
+   "openToPrint": {
+      "message": "Yazdırılacak sayfayı açın."
+   },
+   "optionsTitle": {
+      "message": "Mobil Yazdırma Seçenekleri"
+   },
+   "password": {
+      "message": "Şifre"
+   },
+   "passwordRequired": {
+      "message": "Yazdırmak için gerekli şifre"
+   },
+   "print": {
+      "message": "Yazdır"
+   },
+   "readyToPrint": {
+      "message": "Yazdırmaya hazırsınız!"
+   },
+   "rememberMe": {
+      "message": "Beni 7 gün boyunca hatırla"
+   },
+   "rightClick": {
+      "message": "Yazdırma varsa, sağ tıklayın; Ardından \u003Cstrong> Yazdır \u003C/strong>' ı seçin"
+   },
+   "selectFromList": {
+      "message": "Listeden bir yazıcı seçin."
+   },
+   "serverURI": {
+      "message": "Mobil Yazdırma sunucusu URI"
+   },
+   "username": {
+      "message": "Kullanıcı adı"
+   },
+   "welcomeToPrint": {
+      "message": "\u003Cbr/> PaperCut Mobil Yazdırmaya Hoş Geldiniz"
+   },
+   "whenPrompted": {
+      "message": "Sizden istendiğinde PaperCut kullanıcı adınızı ve şifrenizi girin."
+   }
+}

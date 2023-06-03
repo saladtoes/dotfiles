@@ -1,0 +1,60 @@
+game:
+  arch: win64
+  exe: drive_c/Program Files/Rockstar Games/Launcher/Launcher.exe
+  prefix: /home/joel/Games/rockstar-games-launcher
+game_slug: rockstar-games-launcher
+name: Rockstar Games Launcher
+requires: null
+script:
+  files:
+  - launcher: https://dl-eu.opendataapi.net/lutris/games/GTA/rockstar-games-launcher-1-0-36-344.exe
+  game:
+    arch: win64
+    exe: drive_c/Program Files/Rockstar Games/Launcher/Launcher.exe
+    prefix: $GAMEDIR
+  installer:
+  - task:
+      arch: win64
+      prefix: /home/joel/Games/rockstar-games-launcher
+      wine_path: /home/joel/.local/share/lutris/runners/wine/lutris-ge-lol-8.7-1-x86_64/bin/wine
+  - task:
+      app: arial
+      arch: win64
+      prefix: /home/joel/Games/rockstar-games-launcher
+      wine_path: /home/joel/.local/share/lutris/runners/wine/lutris-ge-lol-8.7-1-x86_64/bin/wine
+  - task:
+      arch: win64
+      env:
+        DXVK_HUD: compiler
+        __GL_SHADER_DISK_CACHE: '1'
+        __GL_SHADER_DISK_CACHE_PATH: /home/joel/Games/rockstar-games-launcher
+      exclude_processes: RockstarService.exe Launcher.exe LauncherPatcher.exe
+      executable: /home/joel/.cache/lutris/installer/rockstar-games-launcher/launcher/rockstar-games-launcher-1-0-36-344.exe
+      prefix: /home/joel/Games/rockstar-games-launcher
+      wine_path: /home/joel/.local/share/lutris/runners/wine/lutris-ge-lol-8.7-1-x86_64/bin/wine
+  - task:
+      arch: win64
+      prefix: /home/joel/Games/rockstar-games-launcher
+      wine_path: /home/joel/.local/share/lutris/runners/wine/lutris-ge-lol-8.7-1-x86_64/bin/wine
+  system:
+    env:
+      DXVK_HUD: compiler
+      __GL_SHADER_DISK_CACHE: 1
+      __GL_SHADER_DISK_CACHE_PATH: $GAMEDIR
+  wine:
+    dxvk: true
+    esync: true
+    version: lutris-ge-lol-8.7-1-x86_64
+slug: rockstar-games-launcher-standalone-1036344
+system:
+  env:
+    DXVK_HUD: compiler
+    __GL_SHADER_DISK_CACHE: '1'
+    __GL_SHADER_DISK_CACHE_PATH: /home/joel/Games/rockstar-games-launcher
+variables: {}
+version: Standalone-1.0.36.344
+wine:
+  dxvk: true
+  esync: true
+  version: lutris-ge-lol-8.7-1-x86_64
+year: 2019

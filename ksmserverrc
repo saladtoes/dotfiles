@@ -1,0 +1,25 @@
+[$Version]
+update_info=ksmserver_update_loginMode_value.upd:ksmserver_update_loginMode_value_default_enum
+
+[LegacySession: saved at previous logout]
+count=0
+
+[Session: saved at previous logout]
+clientId1=1012b14d145149000168533302100000007930004
+clientId2=1012b14d145149000168533302800000007930005
+clientId3=1012b14d145149000168533336200000007930007
+count=3
+discardCommand2[$e]=rm,$HOME/.config/session/dolphin_1012b14d145149000168533302800000007930005_1685341903_297422
+discardCommand3[$e]=rm,$HOME/.config/session/dolphin_1012b14d145149000168533336200000007930007_1685341903_296030
+program1=/usr/lib/DiscoverNotifier
+program2=/usr/bin/dolphin
+program3=/usr/bin/dolphin
+restartCommand1=/usr/lib/DiscoverNotifier,-session,1012b14d145149000168533302100000007930004_1685341903_295871
+restartCommand2=/usr/bin/dolphin,-session,1012b14d145149000168533302800000007930005_1685341903_297422
+restartCommand3=/usr/bin/dolphin,-session,1012b14d145149000168533336200000007930007_1685341903_296030
+restartStyleHint1=0
+restartStyleHint2=0
+restartStyleHint3=0
+userId1=joel
+userId2=joel
+userId3=joel

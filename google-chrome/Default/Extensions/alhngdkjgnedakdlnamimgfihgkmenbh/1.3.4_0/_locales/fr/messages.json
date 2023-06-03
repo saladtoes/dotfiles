@@ -1,0 +1,80 @@
+{
+   "clickToChoose": {
+      "message": "Cliquez sur \u003Cstrong>Changer\u003C/strong> pour choisir une imprimante."
+   },
+   "connectionFailedError": {
+      "message": "Nous avons détecté un problème de connexion réseau. Veuillez vérifier que vous êtes connecté au réseau et réessayer."
+   },
+   "continueWithGoogle": {
+      "message": "Connectez-vous avec Google"
+   },
+   "gSuiteNotSupportedError": {
+      "message": "La connexion Google n'est pas disponible pour le moment. Pour imprimer, utilisez votre nom d'utilisateur et votre mot de passe."
+   },
+   "grantAccessError": {
+      "message": "Pour imprimer, authentifiez-vous avec votre nom d'utilisateur et mot de passe d'impression ou votre compte Google."
+   },
+   "importantConnected": {
+      "message": "\u003Cstrong>Important :\u003C/strong> Vérifier que vous êtes connecté au réseau de votre organisation."
+   },
+   "indexTitle": {
+      "message": "Authentification Impression Mobile"
+   },
+   "invalidCredentials": {
+      "message": "Nom d'utilisateur ou mot de passe invalide"
+   },
+   "loading": {
+      "message": "Chargement..."
+   },
+   "loginTitle": {
+      "message": "Authentification Impression Mobile"
+   },
+   "makeSure": {
+      "message": "Vérifier que vous avez sélectionné une imprimante gérée par l'Impression Mobile identifiée par l’icône PaperCut."
+   },
+   "openToPrint": {
+      "message": "Ouvrir la page pour imprimer."
+   },
+   "optionsTitle": {
+      "message": "Options Impression Mobile"
+   },
+   "or": {
+      "message": "ou"
+   },
+   "password": {
+      "message": "Mot de passe"
+   },
+   "passwordRequired": {
+      "message": "Authentification requise pour imprimer"
+   },
+   "print": {
+      "message": "Impression"
+   },
+   "readyToPrint": {
+      "message": "Vous êtes prêt à imprimer !"
+   },
+   "rememberMe": {
+      "message": "Se souvenir de moi"
+   },
+   "rightClick": {
+      "message": "Si l'impression est disponible, cliquez avec le bouton droit de la souris; Puis sélectionnez \u003Cstrong>Impression\u003C/strong>"
+   },
+   "selectFromList": {
+      "message": "Sélectionnez une imprimante de la liste."
+   },
+   "serverURI": {
+      "message": "URL du serveur d'Impression Mobile"
+   },
+   "unknownGoogleAccountError": {
+      "message": "Compte d'utilisateur inconnu. Pour imprimer, sélectionnez un autre compte Google ou utilisez votre nom d'utilisateur et votre mot de passe pour l'impression."
+   },
+   "username": {
+      "message": "Nom d'utilisateur"
+   },
+   "welcomeToPrint": {
+      "message": "Bienvenue sur\u003Cbr/> l'Impression Mobile PaperCut"
+   },
+   "whenPrompted": {
+      "message": "Lorsque vous y êtes invité, entrez votre nom d'utilisateur et votre mot de passe PaperCut."
+   }
+}
